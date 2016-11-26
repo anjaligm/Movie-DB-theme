@@ -1,2 +1,2 @@
 # Movie DB-theme
-Free Bootstrap based theme for hoisting movie database 
+Free Bootstrap based theme for hosting movie database 
